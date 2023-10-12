@@ -1,3 +1,4 @@
+![logo](https://camo.githubusercontent.com/ba27b6fd30244ff7ceefab84c6efb5379d35a25c170f4d82cfe4e8881ea2894a/68747470733a2f2f626c6f672e696d617274696375732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f64616f6e6c696e652e676966)
 <h1 align="center">Hi 👋, I'm Nitin Chandra</h1>
 <h3 align="center">As a highly skilled professional with a strong background in Financial analyst and project management, I am adept at using a range of tools, including Excel, SQL and data visualization software, to drive business objectives and optimize performance. My expertise in industry trends and business processes, combined with my ability to think critically and make strategic decisions, allows me to effectively lead cross-functional teams and implement solutions that drive success.</h3>
 
